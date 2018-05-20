@@ -1,0 +1,15 @@
+{
+  "name": "split-array",
+  "version": "1.0.0",
+  "description": "split up array each n item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "split",
+    "array"
+  ],
+  "author": "kk",
+  "license": "ISC"
+}
